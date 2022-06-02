@@ -1,5 +1,7 @@
 # project-management-app
 
+## Deploy: https://team-task-manager-app.netlify.app/
+
 ## Стек
   React 18 + Typescript(!!!)
   
@@ -18,18 +20,7 @@
 
   drag-n-drop: react-dnd https://react-dnd.github.io/react-dnd/about
  
- ## GITFLOW
-  FEATURE
-  develop -> feature/...(task name) -> pull request(review) -> develop
-  
-  
-  BUGFIX
-  develop -> bugfix/...(bug name) -> pull request(review) -> develop
-  
-  ![image](https://user-images.githubusercontent.com/47328756/166876338-97f4f808-0156-495e-83b6-a2d9d83c63e5.png)
 
-## View 
-![image](https://user-images.githubusercontent.com/47328756/166742601-3aeb275d-84a7-47ec-9d31-c99d6ecdba9f.png)
 
   
 
